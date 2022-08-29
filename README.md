@@ -1,4 +1,4 @@
-AVR Counter
+# AVR Counter
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
